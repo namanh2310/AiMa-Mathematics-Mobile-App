@@ -4,9 +4,9 @@
 As technology continues to progress, the importance and influence of mathematics in people's lives are growing. The emergence of mobile systems has brought about several benefits, such as portability, convenience, and accessibility, especially in the field of education. It is crucial to develop a mobile system that can cater not only to high school students but also to those enrolled in colleges and universities, offering solutions for basic calculations and highly specialized algorithms. To address this need, this research presents AiMA, an AI-based mobile system that assists college students with math-related issues. In this paper, we discuss the limitations of current math-solving mobile applications and propose a solution that caters to specialized algorithms for university students. AiMA employs React Native on the front-end side to render the user interface and Flask-server on the back-end side to handle numerical data. Additionally, an AI model is implemented to handle input images stored in a cloud-based media management platform for detection. The system's functionality evaluation indicates that AiMA provides advantages over existing solutions by enabling users to solve complex calculus problems and receive tailored solutions for specific areas of mathematics. This makes AiMA a highly valuable tool for college and university students who require specialized assistance with their math-related studies.
 
 # TECHNOLOGIES
-**FRONT-END** React Native
-**BACK-END** Flask Server
-**AI MODEL** pix2tex 
+**FRONT-END** React Native \
+**BACK-END** Flask Server \
+**AI MODEL** pix2tex  
 
 # SYSTEM DESIGN
 AiMA is developed primarily on the mobile platform. Therefore, this research is entirely focused on the subject of software, and the application of the software development process is crucial, and the waterfall development process model is use to develop the system. The waterfall development process model is a linear and sequential approach to software development. It consists of several distinct phases, including requirements gathering and analysis, design, implementation, testing, deployment, and maintenance. Each phase must be completed before moving on to the next one. 
